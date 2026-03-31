@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou William 👋
 
-<!--
-**Devwillsantos/Devwillsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📱 Focado em desenvolvimento Mobile  
+💻 Apaixonado por tecnologia e aprendizado constante  
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando
+- React Native
+- TypeScript
+- Desenvolvimento Mobile
+- Lógica de programação
+- Banco de Dados
+- AWS Cloud Foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- JavaScript
+- TypeScript
+- React Native
+- Node.js
+- Git e GitHub
+
+## 📚 Objetivo
+Conseguir minha primeira oportunidade como desenvolvedor, aplicando meus conhecimentos em projetos reais e evoluindo constantemente como programador.
+
+## 📌 Projetos
+Em breve estarei adicionando projetos práticos aqui no meu GitHub.
+
+## 📫 Contato
+- Email: (william.cezardossantos@gmail.com)
+
+---
+
+✨ Sempre em evolução.
