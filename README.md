@@ -25,4 +25,6 @@ Conseguir minha primeira oportunidade como desenvolvedor, aplicando meus conheci
 ## 📫 Contato
 - Email: william.cezardossantos@gmail.com
 
+- ##
+
 **Confira os projetos fixados abaixo!**
