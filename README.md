@@ -23,8 +23,5 @@
 Conseguir minha primeira oportunidade como desenvolvedor, aplicando meus conhecimentos em projetos reais e evoluindo constantemente como programador.
 
 ## 📫 Contato
-- Email: (william.cezardossantos@gmail.com)
+- Email: william.cezardossantos@gmail.com
 
----
-
-✨ Sempre em evolução.
