@@ -22,9 +22,6 @@
 ## 📚 Objetivo
 Conseguir minha primeira oportunidade como desenvolvedor, aplicando meus conhecimentos em projetos reais e evoluindo constantemente como programador.
 
-## 📌 Projetos
-Em breve estarei adicionando projetos práticos aqui no meu GitHub.
-
 ## 📫 Contato
 - Email: (william.cezardossantos@gmail.com)
 
